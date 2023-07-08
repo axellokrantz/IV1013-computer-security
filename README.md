@@ -13,9 +13,8 @@
 After passing the course, students should be able to:
 
 * Explain basic mechanisms in, and the structure of, secure communications protocols
-* Describe weaknesses in computer systems, software, networks, and communications protocols as well as explain    
-  attacks that utilise such weaknesses.
+* Describe weaknesses in computer systems, software, networks, and communications protocols as well as explain attacks that utilise such weaknesses.
 * Explain and compare advantages and disadvantages with common cryptographic technologies.
 * Design and implement simple cryptographic applications.
-* Account for and recognise threats against information security: confidentiality, integrity, and availability.     as well as choose appropriate methods to protect against threats.
+* Account for and recognise threats against information security: confidentiality, integrity, and availability. as well as choose appropriate methods to protect against threats
 * Design, implement, and evaluate security in networks.
